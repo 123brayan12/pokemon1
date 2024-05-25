@@ -16,6 +16,6 @@
 
 <style>
     .hidden-pokemon{
-      filter: brightness(0);
+      filter: brightness(1);
     }
 </style>
